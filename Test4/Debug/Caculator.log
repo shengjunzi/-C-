@@ -1,0 +1,57 @@
+﻿  stdafx.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\atlmfc\include\afx.h(21,1): warning C4005:  “_AFXDLL”: 宏重定义
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\atlmfc\include\afx.h(21,1): warning C4005: D:\C++作业\Caculator-master\Caculator\stdafx.cpp: note: 参见“_AFXDLL”的前一个定义
+  Caculator.cpp
+  CaculatorDlg.cpp
+D:\C++作业\Caculator-master\Caculator\CaculatorDlg.cpp(211,13): warning C4244:  “初始化”: 从“wchar_t”转换到“char”，可能丢失数据
+D:\C++作业\Caculator-master\Caculator\CaculatorDlg.cpp(231,13): warning C4244:  “初始化”: 从“wchar_t”转换到“char”，可能丢失数据
+D:\C++作业\Caculator-master\Caculator\CaculatorDlg.cpp(260,13): warning C4244:  “初始化”: 从“wchar_t”转换到“char”，可能丢失数据
+D:\C++作业\Caculator-master\Caculator\CaculatorDlg.cpp(277,13): warning C4244:  “初始化”: 从“wchar_t”转换到“char”，可能丢失数据
+D:\C++作业\Caculator-master\Caculator\CaculatorDlg.cpp(294,13): warning C4244:  “初始化”: 从“wchar_t”转换到“char”，可能丢失数据
+D:\C++作业\Caculator-master\Caculator\CaculatorDlg.cpp(312,13): warning C4244:  “初始化”: 从“wchar_t”转换到“char”，可能丢失数据
+D:\C++作业\Caculator-master\Caculator\CaculatorDlg.cpp(326,13): warning C4244:  “初始化”: 从“wchar_t”转换到“char”，可能丢失数据
+D:\C++作业\Caculator-master\Caculator\CaculatorDlg.cpp(340,13): warning C4244:  “初始化”: 从“wchar_t”转换到“char”，可能丢失数据
+D:\C++作业\Caculator-master\Caculator\CaculatorDlg.cpp(355,13): warning C4244:  “初始化”: 从“wchar_t”转换到“char”，可能丢失数据
+D:\C++作业\Caculator-master\Caculator\CaculatorDlg.cpp(369,13): warning C4244:  “初始化”: 从“wchar_t”转换到“char”，可能丢失数据
+D:\C++作业\Caculator-master\Caculator\CaculatorDlg.cpp(383,13): warning C4244:  “初始化”: 从“wchar_t”转换到“char”，可能丢失数据
+D:\C++作业\Caculator-master\Caculator\CaculatorDlg.cpp(399,13): warning C4244:  “初始化”: 从“wchar_t”转换到“char”，可能丢失数据
+D:\C++作业\Caculator-master\Caculator\CaculatorDlg.cpp(417,13): warning C4244:  “初始化”: 从“wchar_t”转换到“char”，可能丢失数据
+D:\C++作业\Caculator-master\Caculator\CaculatorDlg.cpp(434,13): warning C4244:  “初始化”: 从“wchar_t”转换到“char”，可能丢失数据
+D:\C++作业\Caculator-master\Caculator\CaculatorDlg.cpp(451,13): warning C4244:  “初始化”: 从“wchar_t”转换到“char”，可能丢失数据
+D:\C++作业\Caculator-master\Caculator\CaculatorDlg.cpp(469,13): warning C4244:  “初始化”: 从“wchar_t”转换到“char”，可能丢失数据
+D:\C++作业\Caculator-master\Caculator\CaculatorDlg.cpp(485,13): warning C4244:  “初始化”: 从“wchar_t”转换到“char”，可能丢失数据
+D:\C++作业\Caculator-master\Caculator\CaculatorDlg.cpp(499,13): warning C4244:  “初始化”: 从“wchar_t”转换到“char”，可能丢失数据
+D:\C++作业\Caculator-master\Caculator\CaculatorDlg.cpp(592,21): warning C4244:  “参数”: 从“wchar_t”转换到“const T”，可能丢失数据
+D:\C++作业\Caculator-master\Caculator\CaculatorDlg.cpp(592,21): warning C4244:         with
+D:\C++作业\Caculator-master\Caculator\CaculatorDlg.cpp(592,21): warning C4244:         [
+D:\C++作业\Caculator-master\Caculator\CaculatorDlg.cpp(592,21): warning C4244:             T=char
+D:\C++作业\Caculator-master\Caculator\CaculatorDlg.cpp(592,21): warning C4244:         ]
+D:\C++作业\Caculator-master\Caculator\CaculatorDlg.cpp(606,21): warning C4244:  “参数”: 从“wchar_t”转换到“const T”，可能丢失数据
+D:\C++作业\Caculator-master\Caculator\CaculatorDlg.cpp(606,21): warning C4244:         with
+D:\C++作业\Caculator-master\Caculator\CaculatorDlg.cpp(606,21): warning C4244:         [
+D:\C++作业\Caculator-master\Caculator\CaculatorDlg.cpp(606,21): warning C4244:             T=char
+D:\C++作业\Caculator-master\Caculator\CaculatorDlg.cpp(606,21): warning C4244:         ]
+D:\C++作业\Caculator-master\Caculator\CaculatorDlg.cpp(613,21): warning C4244:  “参数”: 从“wchar_t”转换到“const T”，可能丢失数据
+D:\C++作业\Caculator-master\Caculator\CaculatorDlg.cpp(613,21): warning C4244:         with
+D:\C++作业\Caculator-master\Caculator\CaculatorDlg.cpp(613,21): warning C4244:         [
+D:\C++作业\Caculator-master\Caculator\CaculatorDlg.cpp(613,21): warning C4244:             T=char
+D:\C++作业\Caculator-master\Caculator\CaculatorDlg.cpp(613,21): warning C4244:         ]
+D:\C++作业\Caculator-master\Caculator\CaculatorDlg.cpp(625,21): warning C4244:  “参数”: 从“wchar_t”转换到“const T”，可能丢失数据
+D:\C++作业\Caculator-master\Caculator\CaculatorDlg.cpp(625,21): warning C4244:         with
+D:\C++作业\Caculator-master\Caculator\CaculatorDlg.cpp(625,21): warning C4244:         [
+D:\C++作业\Caculator-master\Caculator\CaculatorDlg.cpp(625,21): warning C4244:             T=char
+D:\C++作业\Caculator-master\Caculator\CaculatorDlg.cpp(625,21): warning C4244:         ]
+D:\C++作业\Caculator-master\Caculator\CaculatorDlg.cpp(630,20): warning C4244:  “参数”: 从“wchar_t”转换到“const T”，可能丢失数据
+D:\C++作业\Caculator-master\Caculator\CaculatorDlg.cpp(630,20): warning C4244:         with
+D:\C++作业\Caculator-master\Caculator\CaculatorDlg.cpp(630,20): warning C4244:         [
+D:\C++作业\Caculator-master\Caculator\CaculatorDlg.cpp(630,20): warning C4244:             T=char
+D:\C++作业\Caculator-master\Caculator\CaculatorDlg.cpp(630,20): warning C4244:         ]
+D:\C++作业\Caculator-master\Caculator\CaculatorDlg.cpp(634,20): warning C4244:  “参数”: 从“wchar_t”转换到“const T”，可能丢失数据
+D:\C++作业\Caculator-master\Caculator\CaculatorDlg.cpp(634,20): warning C4244:         with
+D:\C++作业\Caculator-master\Caculator\CaculatorDlg.cpp(634,20): warning C4244:         [
+D:\C++作业\Caculator-master\Caculator\CaculatorDlg.cpp(634,20): warning C4244:             T=char
+D:\C++作业\Caculator-master\Caculator\CaculatorDlg.cpp(634,20): warning C4244:         ]
+D:\C++作业\Caculator-master\Caculator\CaculatorDlg.cpp(849,13): warning C4244:  “初始化”: 从“wchar_t”转换到“char”，可能丢失数据
+  正在生成代码...
+D:\C++作业\Caculator-master\Caculator\CaculatorDlg.cpp(867,13): warning C4244:  “初始化”: 从“wchar_t”转换到“char”，可能丢失数据
+  Caculator.vcxproj -> D:\C++作业\Caculator-master\Caculator\Debug\Caculator.exe
