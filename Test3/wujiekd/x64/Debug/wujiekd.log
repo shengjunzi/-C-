@@ -1,0 +1,16 @@
+﻿  stdafx.cpp
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\atlmfc\include\afx.h(21,1): warning C4005:  “_AFXDLL”: 宏重定义
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.22.27905\atlmfc\include\afx.h(21,1): warning C4005: D:\C++作业\Test3\wujiekd\stdafx.cpp: note: 参见“_AFXDLL”的前一个定义
+  kedaadd.cpp
+  kedachange.cpp
+  kedadelete.cpp
+  kedafinds.cpp
+  kedaimport.cpp
+  management.cpp
+D:\C++作业\Test3\wujiekd\management.cpp(768,20): warning C4018:  “<”: 有符号/无符号不匹配
+  kedasave.cpp
+  wujiekd.cpp
+  wujiekdDlg.cpp
+  正在生成代码...
+D:\C++作业\Test3\wujiekd\management.cpp(778,20): warning C4018:  “<”: 有符号/无符号不匹配
+  wujiekd.vcxproj -> D:\C++作业\Test3\x64\Debug\wujiekd.exe
