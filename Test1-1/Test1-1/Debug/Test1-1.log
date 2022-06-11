@@ -1,0 +1,9 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(452,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (图书馆自习室预约系统.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Mange.cpp
+  orderfilecpp.cpp
+  Student.cpp
+  Teacher.cpp
+  源.cpp
+  正在生成代码...
+D:\C++作业\Test1-1\Test1-1\Mange.cpp(128): warning C4715:  “Mange::checkRepeat”: 不是所有的控件路径都返回值
+  Test1-1.vcxproj -> D:\C++作业\Test1-1\Debug\Test1-1.exe
