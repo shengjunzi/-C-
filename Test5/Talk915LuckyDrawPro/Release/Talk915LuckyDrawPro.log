@@ -1,0 +1,4 @@
+﻿C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppClean.targets(76,5): warning : 文件“d:\8210810968 张昌盛\test5\talk915luckydrawpro\release\stdafx.obj”正由另一进程使用，因此该进程无法访问此文件。
+  stdafx.cpp
+  D:\8210810968 张昌盛\Test5\Talk915LuckyDrawPro\stdafx.cpp : fatal error C1083: 无法打开编译器生成的文件: “D:\8210810968 张昌盛\Test5\Talk915LuckyDrawPro\Release\stdafx.obj”: Permission denied
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\MSBuild\Microsoft\VC\v160\Microsoft.CppCommon.targets(320,5): error MSB6006: “CL.exe”已退出，代码为 1。
